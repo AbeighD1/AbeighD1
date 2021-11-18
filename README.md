@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbeighD1
-- 👀 I’m interested in ... AI research.
+- 👀 I’m interested in ... AI research and using AR in the workplace.
 - 🌱 I’m currently learning ... as much as I can about Codex and GPT-3.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
